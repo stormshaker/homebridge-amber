@@ -1,3 +1,11 @@
+## Amber Electric homebridge plugin
+
+In Australia, Amber Electric has a very similar product to Griddy - wholesale prices passed through to consumers with superpeaks during peak demand.
+
+The goal of this repo is to adapt @mshanemc's good work on Griddy integration to use Amber's API.
+
+---
+
 # Griddy Plugin for Homebridge
 
 The purpose of this plugin is to make it possible to automate other things based on electricity prices for Griddy customers.
